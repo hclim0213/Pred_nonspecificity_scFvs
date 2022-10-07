@@ -10,3 +10,6 @@ This is additional supplementary data in "Prediction of polyreactive and nonspec
 
 > Installation
 <pre><code>pip install numpy pandas scikit-learn jupyter scipy lightgbm xgboost matplotlib</code></pre>
+
+> Features and Models
+The features and Models can be alternatively downloaded through Google Drive (https://drive.google.com/drive/folders/18oNC0W-4YMK8VzkB-DyQtdNEQ20QRy0d?usp=sharing)
