@@ -8,3 +8,5 @@ This is additional supplementary data in "Prediction of polyreactive and nonspec
 > Python
 <pre><code>3.7.13</code></pre>
 
+> Installation
+<pre><code>pip install numpy pandas scikit-learn jupyter scipy lightgbm xgboost matplotlib</code></pre>
